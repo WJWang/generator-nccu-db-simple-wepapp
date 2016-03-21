@@ -1,0 +1,21 @@
+{
+  "name": "generator-nccu-db-simple-wepapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "files": [
+    "generators/app",
+    "generators/router"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William Wang",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^0.22.5"
+  }
+}
